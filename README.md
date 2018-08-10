@@ -5,14 +5,14 @@ This app contains the information of all tution centers which are located near t
 
 
 
-# project name:
+# Project name:
 FIND TUTOR FOR YOU
-# logo:
+# Logo:
 ![alt text](https://github.com/avinash1373/find-tutor/blob/master/716e7f3a783cf9bd42b2aad671c5859b.png)
 
 
 
-# team members:
+# Team Members:
 1.Avinash.S         avinash3508@gmail.com
 2.Gopinathan.M      gopitricks1307@gmail.com
 3.Gokul.S           gokul1051999@gmail.com
@@ -38,7 +38,7 @@ Android studio,java,xml.
 The application(apk) will be available in play store once it is developed.
 
 
-# features
+# Features
 what the additional features this project contains?
 1.User can see and add user review option about particular institution.
 2.Users can check 
