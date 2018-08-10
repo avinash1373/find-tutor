@@ -1,8 +1,9 @@
 ![alt text](https://github.com/avinash1373/find-tutor/blob/master/classroom.jpg)
 # About:
 We are going to develop an app which is useful for finding tution centers near us.recently parents are in search of good  tution centers to provide good quality  education to their wards.
-This app contains the information of all tution centers which are located near to them.parents can search and find every information about the particular institution,similarly tutors can check for  job vacany in  tution centers .# project name
-tutor 4 me
+This app contains the information of all tution centers which are located near to them.parents can search and find every information about the particular institution,similarly tutors can check for  job vacany in  tution centers .
+# project name
+find tutor
 
 
 # logo:
