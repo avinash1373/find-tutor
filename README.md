@@ -1,5 +1,7 @@
 # project name
-Find tutuion
+tutor 4 me
+# logo:
+![alt text](https://github.com/avinash1373/find-tutor/blob/master/716e7f3a783cf9bd42b2aad671c5859b.png)
 # team members
 1.avinash.s
 2.gopinathan.m
