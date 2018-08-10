@@ -27,7 +27,7 @@ Android version above or equal to 6.0.
 
 
 # INSTALLING
-This app can be installed from the play store.
+This app can be installed from play store.
 
 
 # SOFTWARE REQUIRED FOR DEVELOPMENT OF THIS APP
